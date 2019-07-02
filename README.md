@@ -1,2 +1,3 @@
-# study-notes
-Study notes
+# Study Notes
+
+Notes on various topics.
